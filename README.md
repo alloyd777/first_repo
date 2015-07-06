@@ -1,2 +1,2 @@
 # first_repo
-This is my first repository
+This is my first repository, and a preparation fot my first data science class.
